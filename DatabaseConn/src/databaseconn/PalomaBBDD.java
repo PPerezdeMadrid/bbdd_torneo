@@ -22,7 +22,7 @@ public class PalomaBBDD {
 
     public static void main(String args[]) {
         String driver = "org.sqlite.JDBC";
-        String url = "jdbc:sqlite:zombies.db";
+        String url = "jdbc:sqlite:torneoLima.db";
 
 //        String usuario = "mtp";
 //        String clave = "mtpPass";
